@@ -1,7 +1,7 @@
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=angelicisntrea&color=b976e8&style=flat&label=౿+spectators)
+  ![](https://komarev.com/ghpvc/?username=angelicisntrea&color=f2f1b3&style=flat&label=౿+spectators)
 
 <p align="center">
-<img src="https://i.postimg.cc/qvG3pvTk/Untitled381-20261116115335.png">
+<img src="https://i.postimg.cc/x1jdyGwL/Untitled381-20261116115705.png">
 </a>
