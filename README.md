@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=angelicisntreal&label=eyes&labelColor=000000&countColor=000000&style=flat"> <br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=angelicisntreal&label=eyes&labelColor=D6AE72&countColor=D6AE72&style=flat"> <br>
   
   ![](https://komarev.com/ghpvc/?username=angelicisntrea&color=d6ae72&style=flat&label=ㅤ౿+spectatorsㅤ)
 
