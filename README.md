@@ -3,10 +3,10 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=angelicisntreal&label=eyes&labelColor=D6AE72&countColor=D6AE72&style=flat"> 
   
 <p align="center">
-<img src="https://i.postimg.cc/x1jdyGwL/Untitled381-20261116115705.png">
+<img src="https://i.postimg.cc/X7B7Brvj/Untitled381-20261118152925.png">
 
 <p align="center">
-<img src="https://i.postimg.cc/fTfb0hcW/jm.png">
+<img src="https://i.postimg.cc/BZkJ3JCs/Untitled385-20261118152957.png">
 
 <p align="center">
 <img src="https://i.postimg.cc/xCd62Y9m/nlfkvndfklgvd-(1).png">
