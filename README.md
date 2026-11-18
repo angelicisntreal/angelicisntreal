@@ -9,10 +9,6 @@
 <img src="https://i.postimg.cc/xCd62Y9m/nlfkvndfklgvd-(1).png">
 </div>
 
-<p align="center">
-<img src="https://i.postimg.cc/yNQBy1dr/bhbhkhjunn.png">
-</div>
-
 <p align="center"><img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awaw" align="left"></p>
 <br>
   <table border="0" align="center">
