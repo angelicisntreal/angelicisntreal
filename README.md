@@ -12,7 +12,7 @@
 
 <img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awawaw" align="left">
 
- <table align="left">
+ <table align="right">
     <tr align="center"></tr>
       <th>
   <tr>
