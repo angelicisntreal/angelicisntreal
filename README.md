@@ -16,7 +16,7 @@
             </div>
             <div class="table-box">
   <table border="0" align="center">
-    <tr align="center"></tr>
+    <tr align="right"></tr>
       <th>
         hhahahaa<br>
         oh no oh no<br>
