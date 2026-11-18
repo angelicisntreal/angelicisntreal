@@ -10,13 +10,11 @@
 <img src="https://i.postimg.cc/SQDQJwP0/Untitled382-20261117020844-(3).png">
 </div>
 
-<p align="center">
-<img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awawaw" align="left">
-
- <table>
-  <tr>
-    <th align="center">
-      hi
-    </th>
-  </tr>
-  </table>
+<div class="container">
+  <img src="[https://placeholder.com](https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png)" alt="awawaw">
+        <table>
+            <thead>
+                <tr>
+                    <th>Item</th>
+                </tr>
+         </table>
