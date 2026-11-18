@@ -10,7 +10,7 @@
 <img src="https://i.postimg.cc/SQDQJwP0/Untitled382-20261117020844-(3).png">
 </div>
 
-<img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awaw" >
+<p align="center"><img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awaw" align="left" ></p>
 
   <table border="0" align="right">
     <tr align="center"></tr>
