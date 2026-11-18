@@ -14,9 +14,5 @@
 
  <table>
     <tr align="center"></tr>
-      <th>
-  <tr>
     hi
-    </th>
-  </tr>
  </table>
