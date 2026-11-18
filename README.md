@@ -23,4 +23,4 @@
       </th>
   </table>
    <br>
-   <img src="https://i.postimg.cc/gkFZyMFT/Untitled383-20261117034427-(1).png" align="center">
+   <img src="https://i.postimg.cc/gkFZyMFT/Untitled383-20261117034427-(1).png" align="right">
