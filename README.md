@@ -6,10 +6,12 @@
 <p align="center">
 <img src="https://i.postimg.cc/x1jdyGwL/Untitled381-20261116115705.png">
 
+<p align="center">
 <img src="https://i.postimg.cc/SQDQJwP0/Untitled382-20261117020844-(3).png">
-</a>
+</div>
 
 <img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awawaw" align="left">
+</div>
 
  <table>
   <tr>
