@@ -12,9 +12,10 @@
 
 <img src="https://i.postimg.cc/X7hzLMNd/Untitled384-20261118004632-(1)-(1).png" alt="awawaw" align="left">
 
- <table>
+ <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
   <tr>
-    <th align="left">
     hi
     </th>
   </tr>
