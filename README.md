@@ -15,7 +15,7 @@
 
  <table>
   <tr>
-    <th align="left">
+    <th align="center">
       hi
     </th>
   </tr>
