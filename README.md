@@ -37,3 +37,12 @@
 
    <p align="center">
 <img src="https://file.garden/arNNp9xjs_CNywgt/sgvdfjhghjgj%20(3).png">
+
+  <table border="0" align="center">
+    <tr align="center"></tr>
+      <td>
+<details>
+<summary>$\color{#514d85}{\textsf{Pt Info}}$</summary>
+
+nonono<br>
+ahahahaaaaaa<br>
