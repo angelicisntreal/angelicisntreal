@@ -19,7 +19,7 @@
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-        ${\color{#c9a4e0}{\textsf angelic or silver}} \color{#7a6c9e}{\textsf{⸝⸝}} \color{#867dba}{\textsf{eng only}}$
+        ${\color{#c9a4e0}{\textsf angelic ﹕silver}} \color{#7a6c9e}{\textsf{⸝⸝}} \color{#867dba}{\textsf{eng only}}$
         </br>
         ꒰ she they ꒱
         </br>
