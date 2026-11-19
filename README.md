@@ -42,7 +42,7 @@
     <tr align="center"></tr>
       <td>
 <details>
-<summary>$\color{#514d85}{\textsf{Pt Info}}$</summary>
+<summary>$\color{#7e78b3}{\textsf{ㅤPt Info ⸝⸝ㅤ}}$</summary>
 
 nonono<br>
 ahahahaaaaaa<br>
