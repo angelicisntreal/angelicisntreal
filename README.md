@@ -23,7 +23,10 @@
         </br>
         ${\color{#7a6c9e}{\textsf ꒰ㅤsheㅤtheyㅤ꒱}}$
         </br>
-         ${\color{#b593cf}{\textsf lesbian ﹕aroace}} \color{#9b84bf}{\textsf{ㅤ꒰ 20 ꒱}}$
+        ${\color{#b593cf}{\textsf lesbian ﹕aroace}} \color{#9b84bf}{\textsf{ㅤ꒰ 20 ꒱}}$
+        </br>
+        <img src="https://file.garden/arNNp9xjs_CNywgt/Untitled387_20261118161158%20(2).png">
+        <img src="https://file.garden/arNNp9xjs_CNywgt/Untitled387_20261118161202%20(2).png">
         </br>
       </th>
   </table>
