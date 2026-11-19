@@ -19,11 +19,12 @@
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-        hhahahaa<br>
-        oh no oh no<br>
-        aaaa<br>
-        aaaa<br>
-        this is a wip<br>
+        ${\color{#c9a4e0}{\textsf{angelic or silver}} \color{#7a6c9e}{\textsf{⸝⸝}} \color{#867dba}{\textsf{eng only}}
+        </br>
+        ꒰ she they ꒱
+        </br>
+        lesbian﹕aroace ⋮ 20
+        </br>
       </th>
   </table>
    <br>
