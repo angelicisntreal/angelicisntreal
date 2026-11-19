@@ -44,5 +44,5 @@
 <details>
 <summary>$\color{#7e78b3}{\textsf{ㅤPt Info ⸝⸝ㅤ}}$</summary>
 
-nonono<br>
-ahahahaaaaaa<br>
+${\color{#868dcf}{\textsf I usually sit at upper barrels at docks!! That or I go to lab rps, since they're the only kind of rp i really like}}<br>
+
