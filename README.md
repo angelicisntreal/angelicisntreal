@@ -19,11 +19,11 @@
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-        ${\color{#c9a4e0}{\textsf angelic ﹕silver}} \color{#7a6c9e}{\textsf{⸝⸝}} \color{#867dba}{\textsf{eng only}}$
+        ${\color{#c9a4e0}{\textsf angelic ﹕silver}}\color{#4f4870}{\textsf{⸝⸝}} \color{#b593cf}{\textsf{eng only}}$
         </br>
-        ꒰ she they ꒱
+        ${\color{#7a6c9e}{\textsf ꒰ㅤsheㅤtheyㅤ꒱}}$
         </br>
-        lesbian﹕aroace ⋮ 20
+         ${\color{#b593cf}{\textsf lesbian ﹕aroace}} \color{#9b84bf}{\textsf{ㅤ꒰ 20 ꒱}}$
         </br>
       </th>
   </table>
