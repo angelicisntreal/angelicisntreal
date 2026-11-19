@@ -21,7 +21,6 @@
   <table border="0" align="center">
     <tr align="center"></tr>
       <th>
-        <img src="https://file.garden/arNNp9xjs_CNywgt/sadjsopajdosad.png" width="250"><br>
         ${\color{#c9a4e0}{\textsf angelic ﹕silver}}\color{#4f4870}{\textsf{⸝⸝}} \color{#b593cf}{\textsf{eng only}}$
         </br>
         ${\color{#7a6c9e}{\textsf ꒰ㅤsheㅤtheyㅤ꒱}}$
@@ -31,7 +30,6 @@
         <img src="https://file.garden/arNNp9xjs_CNywgt/Untitled387_20261118161202%20(2).png">
         <img src="https://file.garden/arNNp9xjs_CNywgt/Untitled387_20261118161158%20(2).png">
         </br>
-        <img src="https://file.garden/arNNp9xjs_CNywgt/dfgdfgdfgdfa.png" width="250"><br>
       </th>
   </table>
    <br>
