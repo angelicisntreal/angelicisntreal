@@ -62,7 +62,7 @@ ${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
 <details>
 <summary>$\color{#8a8dcf}{\textsf{ㅤ⟡ ( COS Info )ㅤ}}$</summary>
 
-<br>
+
 <p align="center">
 <img src="https://file.garden/arNNp9xjs_CNywgt/AngelicKey.webp" width=50></p>
 
