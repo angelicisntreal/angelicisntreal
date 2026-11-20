@@ -39,7 +39,8 @@
 <img src="https://file.garden/arNNp9xjs_CNywgt/sgvdfjhghjgj%20(3).png">
      
 <p align="center">
-${\color{#6e6091}{\textsf{Creatures of Sonaria fan!! I love Serphelius}}}$<br></p>
+${\color{#6e6091}{\textsf{Creatures of Sonaria fan!! I love Serphelius}}}$</p>
+<img src="https://file.garden/arNNp9xjs_CNywgt/AngelicKey.webp" width=50><br>
 
   <table border="0" align="center">
     <tr align="center"></tr>
