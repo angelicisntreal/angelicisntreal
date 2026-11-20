@@ -39,13 +39,13 @@
 <img src="https://file.garden/arNNp9xjs_CNywgt/sgvdfjhghjgj%20(3).png">
      
 <p align="center">
-${\color{#6e6091}{\textsf{Creatures of Sonaria fan!! I love Serphelius}}}$</p><br>
+${\color{#6e6091}{\textsf{Creatures of Sonaria fan!! I love Serphelius}}}$</p>
 
   <table border="0" align="center">
     <tr align="center"></tr>
       <td>
 <details>
-<summary>$\color{#7e78b3}{\textsf{ㅤPt Info ⸝⸝ㅤ}}$</summary>
+<summary>$\color{#7e78b3}{\textsf{ㅤPT Info ⸝⸝ㅤ}}$</summary>
 
 ${\color{#8a8fcf}{\textsf{⋮ I usually sit by upper barrels at docks!!}}}$<br>
 ${\color{#95a3de}{\textsf{That or I go to lab rps...}}}$<br>
@@ -53,4 +53,19 @@ ${\color{#95a3de}{\textsf{That or I go to lab rps...}}}$<br>
 ${\color{#637799}{\textsf{꒰ FANDOMS ꒱}}}$<br>
 ${\color{#688dab}{\textsf{Phighting (P!) , Creatures of Sonaria (COS)}}}$<br>
 ${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
+ </td>
+  </table>
 
+  <table border="0" align="center">
+    <tr align="center"></tr>
+      <td>
+<details>
+<summary>$\color{#8a8dcf}{\textsf{ㅤ⟡ ( COS Info )ㅤ}}$</summary>
+
+<br>
+<p align="center">
+<img src="https://file.garden/arNNp9xjs_CNywgt/AngelicKey.webp" width=50></p>
+<p align="center">
+  ${\color{#a39ce6}{\textsf{I'm a Nolumoth and Galeostra main!!}}}<br>
+  ${\color{#bfa8f7}{\textsf{As well as being an Angelic Warden collector}}}<br>
+  ${\color{#debfff}{\textsf{I really like shim gts and angelic slots...}}}<br>
