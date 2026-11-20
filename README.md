@@ -44,5 +44,10 @@
 <details>
 <summary>$\color{#7e78b3}{\textsf{ㅤPt Info ⸝⸝ㅤ}}$</summary>
 
-${\color{#868dcf}{\textsf I usually sit at upper barrels at docks!! That or I go to lab rps, since they're the only kind of rp i really like}}$<br>
+${\color{#8a8fcf}{\textsf{⋮ I usually sit by upper barrels at docks!!}}}$<br>
+${\color{#95a3de}{\textsf{That or I go to lab rps, since they're the only kind of rp i really like}}}$<br>
+<br>
+${\color{#637799}{\textsf{꒰ FANDOMS ꒱}}}$<br>
+${\color{#688dab}{\textsf{Phighting (P!) , Creatures of Sonaria (COS) , My Little Pony (MLP)}}}$<br>
+
 
