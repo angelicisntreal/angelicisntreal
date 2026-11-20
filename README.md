@@ -65,10 +65,8 @@ ${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
 <br>
 <p align="center">
 <img src="https://file.garden/arNNp9xjs_CNywgt/AngelicKey.webp" width=50></p>
-<p align="center">
-  
-I'm a Nolumoth and Galeostra main!!<br>
-As well as being an Angelic Warden collector<br>
-I really like shim gts and angelic slots...<br>
-  
 
+<p align="center">
+${\color{#a39ce6}{\textsf{I'm a Nolumoth and Galeostra main!!}}}$<br>
+${\color{#bfa8f7}{\textsf{As well as being an Angelic Warden collector}}}$<br>
+${\color{#debfff}{\textsf{I really like shim gts and angelic slots...}}}$<br></p>
