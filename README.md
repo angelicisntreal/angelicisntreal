@@ -37,6 +37,9 @@
 
    <p align="center">
 <img src="https://file.garden/arNNp9xjs_CNywgt/sgvdfjhghjgj%20(3).png">
+     
+<p align="center">
+${\color{#6e6091}{\textsf{Creatures of Sonaria fan!! I love Serphelius}}}$<br></p>
 
   <table border="0" align="center">
     <tr align="center"></tr>
@@ -45,9 +48,9 @@
 <summary>$\color{#7e78b3}{\textsf{ㅤPt Info ⸝⸝ㅤ}}$</summary>
 
 ${\color{#8a8fcf}{\textsf{⋮ I usually sit by upper barrels at docks!!}}}$<br>
-${\color{#95a3de}{\textsf{That or I go to lab rps, since they're the only kind of rp i really like}}}$<br>
+${\color{#95a3de}{\textsf{That or I go to lab rps...}}}$<br>
 <br>
 ${\color{#637799}{\textsf{꒰ FANDOMS ꒱}}}$<br>
-${\color{#688dab}{\textsf{Phighting (P!) , Creatures of Sonaria (COS) , My Little Pony (MLP)}}}$<br>
-
+${\color{#688dab}{\textsf{Phighting (P!) , Creatures of Sonaria (COS)}}}$<br>
+${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
 
