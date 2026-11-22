@@ -68,5 +68,5 @@ ${\color{#debfff}{\textsf{I really like shim gts and angelic slots...}}}$<br></p
 </details></td></table>
 
 <p align="center">
-<img src="https://file.garden/arNNp9xjs_CNywgt/Untitled391_20261122134132.png" width=800>
+<img src="https://file.garden/arNNp9xjs_CNywgt/Untitled391_20261122134132.png" width=750>
 </div>
