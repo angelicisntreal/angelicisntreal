@@ -3,7 +3,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=angelicisntreal&label=eyes&labelColor=D6AE72&countColor=D6AE72&style=flat"> 
   
 <p align="center">
-<img src="https://i.postimg.cc/X7B7Brvj/Untitled381-20261118152925.png">
+<img src="https://i.postimg.cc/X7B7Brvj/Untitled381-20261118152925.png" width=1000>
 
 
 <a href="https://www.tiktok.com/@angelicisntreal"><img src="https://i.postimg.cc/PxBmDKcL/Untitled386-20261118171556-(2).png"></a>
@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://i.postimg.cc/nLXj1Bqh/Untitled388-20261118181953.png">
+<img src="https://i.postimg.cc/nLXj1Bqh/Untitled388-20261118181953.png" width=1000>
 </div>
 
 <p align="center"><img src="https://i.postimg.cc/m2mJ4j4C/Untitled384-20261118153306-(2).png" alt="awaw" align="left"></p>
@@ -61,12 +61,12 @@ ${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
       <td>
 <details>
 <summary>$\color{#8a8dcf}{\textsf{ㅤ⟡ ( COS Info )ㅤ}}$</summary>
-
-
-<p align="center">
-<img src="https://file.garden/arNNp9xjs_CNywgt/AngelicKey.webp" width=50></p>
-
 <p align="center">
 ${\color{#a39ce6}{\textsf{I'm a Nolumoth and Galeostra main!!}}}$<br>
 ${\color{#bfa8f7}{\textsf{As well as being an Angelic Warden collector}}}$<br>
 ${\color{#debfff}{\textsf{I really like shim gts and angelic slots...}}}$<br></p>
+</details></td></table>
+
+<p align="center">
+<img src="https://file.garden/arNNp9xjs_CNywgt/Untitled391_20261122134132.png" width=1000>
+</div>
