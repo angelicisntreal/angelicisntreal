@@ -51,10 +51,10 @@ ${\color{#8a8fcf}{\textsf{⋮ I usually sit by upper barrels at docks!!}}}$<br>
 ${\color{#95a3de}{\textsf{That or I go to lab rps...}}}$<br>
 
 ---
-
+<p align="center">
 ${\color{#637799}{\textsf{꒰ FANDOMS ꒱}}}$<br>
 ${\color{#688dab}{\textsf{Phighting (P!) , Creatures of Sonaria (COS)}}}$<br>
-${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$<br>
+${\color{#688dab}{\textsf{My Little Pony (MLP)}}}$</p><br>
  </td>
   </table>
 
