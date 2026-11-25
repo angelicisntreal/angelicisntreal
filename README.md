@@ -7,7 +7,7 @@
 
 
 <a href="https://www.tiktok.com/@angelicisntreal"><img src="https://i.postimg.cc/PxBmDKcL/Untitled386-20261118171556-(2).png"></a>
-<img src="https://i.postimg.cc/sfhPzdQK/Untitled386-20261118171552-(1).png">
+<a href=">https://angelicisntreal.straw.page/"><img src="https://i.postimg.cc/sfhPzdQK/Untitled386-20261118171552-(1).png"></a>
 
 
 <p align="center">
